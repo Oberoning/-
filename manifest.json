@@ -1,0 +1,17 @@
+{
+  "name": "栄冠バレー - 監督専用極致統合版",
+  "short_name": "栄冠バレー",
+  "description": "名門校を創り上げる本格バレーボール指導シミュレーション",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#050505",
+  "theme_color": "#1a2a6c",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3063/3063822.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
